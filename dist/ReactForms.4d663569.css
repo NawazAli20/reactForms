@@ -1,0 +1,30 @@
+body {
+  font-family: Roboto, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  background-color: red;
+}
+
+label {
+  width: 100px;
+  font-family: cursive;
+  display: inline-block;
+}
+
+.error {
+  color: red;
+  margin-left: 100px;
+  font-size: smaller;
+  display: block;
+}
+
+button {
+  color: #fff;
+  background-color: #8a2be2;
+  border: 2px solid green;
+  margin-left: 130px;
+}
+/*# sourceMappingURL=ReactForms.4d663569.css.map */
